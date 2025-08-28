@@ -1,2 +1,0 @@
-# Project-ppt
-Digital clock 
